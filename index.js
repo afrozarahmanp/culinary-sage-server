@@ -1,15 +1,18 @@
 const express = require('express')
 const app = express()
+const cors = require('cors');
 const port = process.env.port || 3000;
 
-const recipes = require('./Data/data.json')
+const data = require('./Data/data.json')
+
+app.use(cors())
 
 app.get('/', (req, res) => {
   res.send('Culinary sage server is runnig')
 })
 
-app.get('/recipes', (req, res) =>{
-res.send(recipes)
+app.get('/data', (req, res) =>{
+res.send(data)
 })
 
 app.listen(port, () => {

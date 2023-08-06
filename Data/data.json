@@ -11,6 +11,7 @@
                 "id":1,
                 "name": "Kung Pao Chicken",
                 "rating":4.5,
+             "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb chicken breast, cut into small cubes",
                     "1/2 cup roasted peanuts",
@@ -37,6 +38,7 @@
                 "id":2,
                 "name": "Dan Dan Noodles",
                 "rating":4.7,
+                "image":"https://hips.hearstapps.com/hmg-prod/images/190226-dan-dan-noodles-253-1552085451.jpg?crop=0.670xw:1.00xh;0.207xw,0&resize=1200:*",
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -63,6 +65,7 @@
                 "id":3,
                 "name": "Mapo Tofu",
                 "rating":4.5,
+                "image":"https://www.seriouseats.com/thmb/CaR7btHrJgEO3OKZD1Z_795VmII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2011__07__2021-02-12-Mapo-Tofu-MHOM-10-804db1211f1d47dbae505341d1e7b994.jpg",
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -89,6 +92,7 @@
                 "id":4,
                 "name": "Ma La Tang (Spicy Hot Pot)",
                 "rating":4,
+                "image":"https://images.getrecipekit.com/20221128172509-how-to-make-ma-la-tang-chinese-street-food-sichuan-cuisine-recipe.png?aspect_ratio=16:9&quality=90&",
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
@@ -122,8 +126,9 @@
             },
             {
                 "id":5,
-                "name": "Sichuan Boiled Beef (Shui Zhu Niu Rou)",
+                "name": "Sichuan Boiled Beef",
                 "rating":4.5,
+                "image":"https://redhousespice.com/wp-content/uploads/2020/02/sichuan-boiled-beef-3-scaled.jpg",
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "2 cups beef stock or water",
@@ -149,8 +154,9 @@
             },
             {
                 "id":6,
-                "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "name": "Shanghai Braised Pork",
                 "rating":4.5,
+                "image":"https://redhousespice.com/wp-content/uploads/2017/02/Red-braised-pork-belly-over-rice-scaled.jpg",
                 "ingredients": [
                     "1 lb pork belly, cut into small cubes",
                     "2 cups water",
@@ -174,6 +180,7 @@
                 "id":7,
                 "name": "Scallion Pancakes",
                 "rating":4.5,
+                "image":"https://www.seriouseats.com/thmb/pSgKgm8cI4f8OotIu9xihcpkvWE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/31.scallion-pancakes-beauty-shot-5219b2b53f51496199fde8fc7582c92b.jpg",
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 tsp salt",
@@ -197,6 +204,7 @@
                 "id":8,
                 "name": "Shanghai-style Fried Rice",
                 "rating":4.5,
+                "image":"https://eatlikepinoy.com/wp-content/uploads/2019/12/shanghai-e1576215124785.jpg",
                 "ingredients": [
                     "2 cups cooked rice, cooled",
                     "1/2 cup diced ham",
@@ -220,8 +228,9 @@
             },
             {
                 "id":9,
-                "name": "Stir-fried Shanghai Greens (You Cai)",
+                "name": "Stir-fried Shanghai Greens",
                 "rating":4.5,
+                "image":"data:image/jpeg;base64,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",
                 "ingredients": [
                     "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
                     "1 tbsp vegetable oil",
