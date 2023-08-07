@@ -259,8 +259,9 @@
         "recipes": [
             {
                 "id":1,
-                "name": "Xiao Long Bao (Soup Dumplings)",
+                "name": "Xiao Long Bao",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb ground pork",
                     "1/4 cup chopped bamboo shoots",
@@ -285,8 +286,9 @@
             },
             {
                 "id":2,
-                "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "name": "Shanghai Braised Pork",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb pork belly, cut into small cubes",
                     "2 cups water",
@@ -310,6 +312,7 @@
                 "id":3,
                 "name": "Scallion Pancakes",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 tsp salt",
@@ -331,8 +334,9 @@
             },
             {
                 "id":4,
-                "name": "Shanghai-style Fried Rice",
+                "name": "Shanghai Fried Rice",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "2 cups cooked rice, cooled",
                     "1/2 cup diced ham",
@@ -356,8 +360,9 @@
             },
             {
                 "id":5,
-                "name": "Stir-fried Shanghai Greens (You Cai)",
+                "name": "Stir-fried Shanghai",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
                     "1 tbsp vegetable oil",
@@ -386,8 +391,9 @@
         "recipes": [
             {
                 "id":1,
-                "name": "Steamed Fish with Ginger and Scallions",
+                "name": "Steamed Fish",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 whole fish, cleaned and scaled (e.g., sea bass or red snapper)",
                     "3 cloves garlic, minced",
@@ -413,8 +419,9 @@
             },
             {
                 "id":2,
-                "name": "Cantonese-style Lobster",
+                "name": "Cantonese Lobster",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "2 live lobsters (about 1 1/2 lbs each), cleaned and halved",
                     "1/4 cup Shaoxing wine",
@@ -438,8 +445,9 @@
             },
             {
                 "id":3,
-                "name": "Wok-fried Clams with Black Bean Sauce",
+                "name": "Wok-fried Clams",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "2 lbs Manila clams, cleaned",
                     "3 cloves garlic, minced",
@@ -464,8 +472,9 @@
             },
             {
                 "id":4,
-                "name": "Cantonese-style Steamed Spare Ribs with Black Bean Sauce",
+                "name": "Cantonese Steamed Spare",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb pork spare ribs",
                     "1 tbsp fermented black beans, rinsed and mashed with a fork",
@@ -494,6 +503,7 @@
                 "id":5,
                 "name": "Dan Dan Noodles",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -520,6 +530,7 @@
                 "id":6,
                 "name": "Mapo Tofu",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -544,8 +555,9 @@
             },
             {
                 "id":7,
-                "name": "Ma La Tang (Spicy Hot Pot)",
+                "name": "Ma La Tang",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
@@ -591,6 +603,7 @@
                 "id":1,
                 "name": "Kung Pao Chicken",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb chicken breast, cut into small cubes",
                     "1/2 cup roasted peanuts",
@@ -617,6 +630,7 @@
                 "id":2,
                 "name": "Dan Dan Noodles",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -643,6 +657,7 @@
                 "id":3,
                 "name": "Mapo Tofu",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -667,8 +682,9 @@
             },
             {
                 "id":4,
-                "name": "Ma La Tang (Spicy Hot Pot)",
+                "name": "Ma La Tang",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
@@ -702,8 +718,9 @@
             },
             {
                 "id":5,
-                "name": "Sichuan Boiled Beef (Shui Zhu Niu Rou)",
+                "name": "Sichuan Boiled Beef",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "2 cups beef stock or water",
@@ -731,7 +748,7 @@
     },
     {
         "id": 5,
-        "rating":4.5,
+        
         "name": "Yuang Le Son",
         "experience_years": 20,
         "quote": "Cooking from scratch doesn't have to be complicated. It's all about getting the basics right.",
@@ -740,7 +757,9 @@
         "recipes": [
             {
                 "id":1,
-                "name": "Xiao Long Bao (Soup Dumplings)",
+                "rating":4.5,
+                "name": "Xiao Long Bao",
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb ground pork",
                     "1/4 cup chopped bamboo shoots",
@@ -765,8 +784,9 @@
             },
             {
                 "id":2,
-                "name": "Shanghai-style Braised Pork Belly (Hong Shao Rou)",
+                "name": "Shanghai Braised Pork",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb pork belly, cut into small cubes",
                     "2 cups water",
@@ -790,6 +810,7 @@
                 "id":3,
                 "name": "Dan Dan Noodles",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -816,6 +837,7 @@
                 "id":4,
                 "name": "Mapo Tofu",
                 "rating":4.5,
+                "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -840,8 +862,8 @@
             },
             {
                 "id":5,
-                "name": "Ma La Tang (Spicy Hot Pot)",
-                "rating":4.5,
+                "name": "Ma La Tang ",
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
@@ -876,7 +898,7 @@
             {
                 "id":6,
                 "name": "Scallion Pancakes",
-                "rating":4.5,
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 tsp salt",
@@ -898,8 +920,8 @@
             },
             {
                 "id":7,
-                "name": "Shanghai-style Fried Rice",
-                "rating":4.5,
+                "name": "Shanghai Fried Rice",
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "2 cups cooked rice, cooled",
                     "1/2 cup diced ham",
@@ -923,8 +945,8 @@
             },
             {
                 "id":8,
-                "name": "Stir-fried Shanghai Greens (You Cai)",
-                "rating":4.5,
+                "name": "Stir-fried Shanghai",
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb Shanghai greens (you cai) or baby bok choy, washed and trimmed",
                     "1 tbsp vegetable oil",
@@ -954,8 +976,8 @@
         "recipes": [
             {
                 "id":1,
-                "name": "Steamed Fish with Ginger and Scallions",
-                "rating":4.5,
+                "name": "Steamed Fish ",
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 whole fish, cleaned and scaled (e.g., sea bass or red snapper)",
                     "3 cloves garlic, minced",
@@ -981,8 +1003,8 @@
             },
             {
                 "id":2,
-                "name": "Cantonese-style Lobster",
-                "rating":4.5,
+                "name": "Cantonese Lobster",
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "2 live lobsters (about 1 1/2 lbs each), cleaned and halved",
                     "1/4 cup Shaoxing wine",
@@ -1006,8 +1028,8 @@
             },
             {
                 "id":3,
-                "name": "Wok-fried Clams with Black Bean Sauce",
-                "rating":4.5,
+                "name": "Wok-fried Clams ",
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "2 lbs Manila clams, cleaned",
                     "3 cloves garlic, minced",
@@ -1032,8 +1054,8 @@
             },
             {
                 "id":4,
-                "name": "Cantonese-style Steamed Spare Ribs with Black Bean Sauce",
-                "rating":4.5,
+                "name": "Cantonese Steamed Spare",
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb pork spare ribs",
                     "1 tbsp fermented black beans, rinsed and mashed with a fork",
@@ -1061,7 +1083,7 @@
             {
                 "id":5,
                 "name": "Dan Dan Noodles",
-                "rating":4.5,
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb fresh egg noodles",
                     "1/2 lb ground pork",
@@ -1087,7 +1109,7 @@
             {
                 "id":6,
                 "name": "Mapo Tofu",
-                "rating":4.5,
+                "rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb soft or silken tofu, cut into small cubes",
                     "1/2 lb ground pork",
@@ -1112,7 +1134,7 @@
             },
             {
                 "id":7,
-                "name": "Ma La Tang (Spicy Hot Pot)","rating":4.5,
+                "name": "Ma La Tang ","rating":4.5,"image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/10/Kung-Pao-Chicken-square-FS-39-new.jpg",
                 "ingredients": [
                     "1 lb beef sirloin, thinly sliced",
                     "1 lb lamb shoulder, thinly sliced",
